@@ -7,18 +7,28 @@ const questions = () => {
 return inquirer.prompt([
     {
         type: "input",
-        message: "projectName",
+        message: "projectTitle",
         name: "What is the title of your project?"
     },
     {
         type: "input",
-        message: "summary",
-        name: "Provide a project summary"
+        message: "description",
+        name: "What is the description of this README?"
     },
     {
         type: "input",
         message: "installation",
         name: "How do you install this project?"
+    },
+    {
+        type: "input",
+        message: "usage",
+        name: "How will you use this application?"
+    },
+    {
+        type: "input",
+        message: "summary",
+        name: "Provide a project summary"
     },
     {
         type: "input",
@@ -40,24 +50,16 @@ return inquirer.prompt([
     },
     {
         type: "input",
-        message: "README heading",
-        name: "heading"
+        message: "github",
+        name: "What is your GitHub username?"
     },
     {
         type: "input",
-        message: "README heading",
-        name: "heading"
-    },
-    {
-        type: "input",
-        message: "README heading",
-        name: "heading"
-    },
-    {
-        type: "input",
-        message: "README heading",
-        name: "heading"
-    },
+        message: "email",
+        name: "What is your email address?"
+    }
 
     ]
 )};
+
+
