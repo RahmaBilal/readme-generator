@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "fs": "^0.0.1-security",
-    "inquirer": "^9.1.2"
+    "inquirer": "^8.2.5"
   },
   "name": "readme-generator",
   "description": "# 09 Node.js Challenge: Professional README Generator",
