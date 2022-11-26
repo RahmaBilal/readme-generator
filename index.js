@@ -59,3 +59,18 @@ const questions = () => {
   ]);
 };
 
+const writeToFile = (fileName, data) => {
+  fs.writeFile(fileName, data, (err) =>
+    err
+      ? console.error(err)
+      : console.log("README.md file created successfully!")
+  );
+};
+
+const init = () => {
+  questions().then((answers) =>
+    writeToFile("README.md", generateMarkdown(answers))
+  );
+};
+
+init();
