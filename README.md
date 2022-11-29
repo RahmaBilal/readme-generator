@@ -1,6 +1,6 @@
-# gbdfvx
+# README-Generator
     
-  ![Badge](http://img.shields.io/badge/license-MIT-blue.png)
+  ![Badge](http://img.shields.io/badge/license-ISC-blue.png)
     
   
   ## Table of Contents
@@ -15,31 +15,28 @@
     
     
   ## Description:
-    bgfvd
+    The readme-generator should create a personalised readme file based off of the users responses to the series of prompted questions
   
   ## Usage:
-    bgfvd
+    Run the node.js command on terminal and add answerws to the prompted questions
   
   ## Installation
-    csgbfvd
-  
-
-
-
+    Clone the repository and run npm install
+    
   
   ## License: 
-    MIT
+    ISC
   
    
-Find out more on: https://opensource.org/licenses/MIT
+Find out more on: https://opensource.org/licenses/ISC
 
   ## Contributing: 
-    gbdfvz
+    Myself
   
   ## Tests:
-    gbfvd
+    Run node index.js to start and answer the prompted questions
 
   ## Questions:
-    If you have any queries about this project or you would like to contribute, then please contact me on gbfvd.
-    This repo can be viewed at https://github.com/gbfvdx
+    If you have any queries about this project or you would like to contribute, then please contact me on rahma.bilal15@gmail.com.
+    This repo can be viewed at https://github.com/RahmaBilal
   
