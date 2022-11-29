@@ -38,7 +38,7 @@ Find out more on: https://opensource.org/licenses/ISC
     
   ## Links
     Walkthrough video:
-    https://drive.google.com/file/d/1q2fLjJIz8EKuC191mkZ0xCMBUYwv_g1S/view
+    https://drive.google.com/file/d/1q2fLjJIz8EKuC191mkZ0xCMBUYwv_g1S/view?usp=sharing
     
     GitHub repo:
     https://github.com/RahmaBilal/readme-generator
