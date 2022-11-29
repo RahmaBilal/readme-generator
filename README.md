@@ -37,7 +37,8 @@ Find out more on: https://opensource.org/licenses/ISC
     Run node index.js to start and answer the prompted questions
     
   ## Links
-    https://drive.google.com/file/d/1q2fLjJIz8EKuC191mkZ0xCMBUYwv_g1S/view
+    Walkthrough video: https://drive.google.com/file/d/1q2fLjJIz8EKuC191mkZ0xCMBUYwv_g1S/view
+    GitHub repo: https://github.com/RahmaBilal/readme-generator
 
   ## Questions:
     If you have any queries about this project or you would like to contribute, then please contact me on rahma.bilal15@gmail.com.
