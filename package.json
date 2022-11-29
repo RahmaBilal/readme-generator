@@ -4,7 +4,7 @@
     "inquirer": "^8.2.5"
   },
   "name": "readme-generator",
-  "description": "# 09 Node.js Challenge: Professional README Generator",
+  "description": "README Generator",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
