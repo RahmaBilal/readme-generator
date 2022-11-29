@@ -42,8 +42,13 @@ const questions = () => {
       choices: ["MIT", "ISC", "Mozilla", "IBM"],
     },
     {
+        type: "input",
+        name: "contributing",
+        message: "What are you contributing to this application?",
+      },
+    {
       type: "input",
-      name: "testFunction",
+      name: "tests",
       message: "Is there a test function for the application?",
     },
     {
@@ -60,6 +65,7 @@ const questions = () => {
 };
 
 const writeToFile = (fileName, data) => {
+  console.log(data);
   fs.writeFile(fileName, data, (err) =>
     err
       ? console.error(err)
